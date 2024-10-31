@@ -1,9 +1,16 @@
 # git branch
+
 # git checkout -b feature-funcao-inss
-# git checkout -b fix-funcao-inss
+
+# git add .
+# git commit -m "titulo do commit"
+
 # git checkout main
-# git checkout feature-funcao-inss
-# git branch -d
+
+# git merge feature-funcao-inss
+
+# git branch -d feature-funcao-inss
+
 
 import os
 
